@@ -1,3 +1,5 @@
+//Added decrement button, two images and a progress bar with a goal of 20.
+
 import 'package:flutter/material.dart';
 
 void main() {
